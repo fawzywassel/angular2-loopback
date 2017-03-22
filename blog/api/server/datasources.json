@@ -1,0 +1,12 @@
+{
+  "db": {
+    "host": "ds139360.mlab.com",
+    "port": 39360,
+    "url": "",
+    "database": "fawzyblog",
+    "password": "admin",
+    "name": "db",
+    "connector": "mongodb",
+    "user": "admin"
+  }
+}
